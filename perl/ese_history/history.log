@@ -1,0 +1,994 @@
+git status
+git push
+git clone https://github.com/rhode96/TrillBlitz.git
+cd Scrivania
+git clone https://github.com/rhode96/TrillBlitz.git
+git clone https://github.com/SpYrO95/TBalfa.git
+cd clone https://github.com/rhode96/Trillblitz.git
+git clone https://github.com/rhode96/Trillblitz.git
+cd Trillblitz
+git status
+git add*
+git add *
+git status
+git add *
+git status
+git commit
+git push
+cd Scrivania
+git clone https://github.com/rhode96/Trillblitz.git
+cd Scrivania
+git clone https://github.com/rhode96/TrillBlitz.git
+cd TrillBlitz
+git status
+git add *
+git status
+git checkout
+git commit
+git rm *
+git add *
+git status
+git commit -a
+git push
+cd ..
+cd Scrivania
+git clone https://github.com/rhode96/TrillBlitz.git
+systemctl stop tomcat
+git clone https://github.com/rhode96/TrillBlitz.git
+systemctl stop tomcat
+git clone https://github.com/rhode96/ThreeKnights.git
+ifconfing
+ifconfig
+systemctl stop tomcat
+javac Prova.java
+javac Oggetto.java
+javac Prova.java
+javac -classpath ./Oggetto.java Prova.java
+javac -classpath ./Oggetto.class Prova.java
+javac -classpath .javac -classpath ./javac --help
+javac -classpath . Prova.java
+javac -classpath ./Oggetto.class Prova.java
+javac -classpath ./Oggetto.java Prova.java
+javac -classpath ../. Prova.java
+java -classpath ../. Prova
+java -classpath ../. Prova.class
+java -classpath ../. Prova
+javajava Prova
+ls -l
+rm Prova.class
+ls -l
+javac Prova.java
+java Prova
+ls -l
+java Prova.class
+ls -l
+java Prova
+cd
+ls
+cd Scrivania
+mkdir Java
+ls -l
+cd Java
+gedit
+ls -l
+javac Prova.java
+java Prova
+ls -l
+rm *.class
+ls -l
+javac Prova.java
+ls -l
+java Prova
+ls -l
+javac Prova.java
+java Prova
+javac Prova.java
+java Prova
+java Oggetto
+java Prova
+javac Main.java
+java Main
+javac Main.java
+java Main
+javac Main.Java
+javac Main.java
+java Main
+java update
+javac Prova.java
+java Prova
+java -version
+apt-get openjdk-10
+sudo apt-get install openjdk-10
+env
+man java
+echo
+echo ciao
+javac Input.java
+java Input < numeri.txt
+javac Input.java
+java Input < numeri.txt
+javac Input.java
+java Input < numeri.txt
+javac P1415a2.java
+java P1415a2 < input.txt
+javac P1415a2.java
+java P1415a2 < input.txt
+javac P1415a4v.java
+java P1415a4v < input.txt
+javac P1617a2.java
+java P1617a2 < input.txt
+javac Appello180712.java
+java Appello180712 < input.txt
+javac Appello.java
+javac Appello180618.java
+java Appello180618
+java Appello180618 < input.txt
+javac Appello180122.java
+java Appello180122 < input.txt
+perl script.pl
+netstat
+java -version
+netstat
+sudo apt-get update
+java -version
+perl script.pl
+./script.pl
+sudo ./script.pl
+g++ ese.cpp -o e
+./ e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+./e
+g++ ese.cpp -o e
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+g++ input.cpp -o i
+./i
+python tempo.py
+cd ..
+cd python
+pyton
+cd pyton
+python breve.py
+java --version
+python --version
+python --help
+python -
+python --version
+python -
+ls -l
+python tempo.py
+python main.py
+python -s
+javac MainGattoTopoDisplay.java
+java MainGattoTopoDisplay
+java MainGattoTopoDisplay.class
+java MainGattoTopoDisplay.classla -l7
+ls -l
+MainGattoTopoDisplay
+java MainGattoTopoDisplay
+java MainGattoTopoDisplay.java
+ls -l
+python filosofi.py
+perl es1.pl
+man
+perloop
+man perloop
+man perlop
+cd Scrivania
+ls -l
+perl file.pl
+perl -v
+ls -l
+stat Documenti
+python gattotoppo.py
+python gattotopo.py
+python --version
+python3 -V
+python3 --version
+python -version
+python --version
+sudo apt purge python2.x-minimal
+sudo apt purge python2.7.15+
+sudo apt purge python2
+sudo apt purge python2.7
+python --version
+python3 --version
+sudo apt autoremove python
+python --version
+sudo apt-get install python3
+sudo apt autoremove python3
+python --version
+python3 --version
+sudo apt-get upgrade
+sudo systemctl restart gdm3
+systemctl list-units --type=target
+systemctl status dafault.target
+systemctl status default.target
+systemctl disable GMD.service
+systemctl disable GDM.service
+systemctl enable GDM.service
+ls -la /etc/systemd/system
+sudo apt update && sudo apt upgrade
+sudo apt upgrade
+sudo apt update
+sudo apt autoremove
+sudo apt update
+sudo apt-get install ubuntu-desktop
+python --version
+python3 --version
+python --version
+python3.6 --version
+python3.6 filosofi.py
+python3 -
+python3 --help
+python3 -
+ls -l
+stat Documenti
+ls -l
+ls -l > out.txt
+ls -l
+gedit out.txt
+nano out.txt
+ls -l
+rm out.txt
+ls -l
+grep -h
+grep --help
+env
+ps --help
+ps(1)
+ps -h
+ps
+top
+kill
+jobs
+fg
+bg
+cat
+cat --help
+ls -l
+cat Documenti
+cat 'passeord artem'
+cat 'password artem'
+more 'password artem'
+man python3
+python3 --help
+history
+ps
+kill 2878
+ps
+perl ese2.pl
+perl es2.pl
+perl --version
+perl -V
+java --version
+java -V
+java --h
+java -h
+java -help
+perl es5.pl
+ls -l
+perl ese5.pl
+perl es5.pl
+perl contabyte.pl
+ls -l
+perl estrai.pl
+ls -l /etc/passwd
+perl estrai.pl
+ls -l /etc/passwd
+ps ax
+ps
+ps --help
+ps --help <a>
+ps --help a
+ps a
+ps ax
+perl es5.pl
+ls -l
+perl killproc.pl
+gedit /etc/passwd
+stat
+ls -l
+stat Documenti
+perl es5.pl
+perl es6.pl
+cd ..
+ls -l
+cd perl_lezione2
+ls -l
+cd esercizi_perl_lezione2
+ls
+perl users.pl
+date
+cd ..
+cd perl_lezione3
+perl es8.pl
+perl es1.pl
+perl esame.pl
+perl esame.pl 5
+perl esame.pl 5 ciao
+perl esame.pl 5 ciao poioaifoap -2
+tail --help
+tail -f /var/log/mail.lof
+tail -f /var/log/mail.log
+perl esame.pl ciao
+perl esame.pl buuu
+ls -l
+perl esame.pl buuu
+perl esame.pl 4
+perl gironi.pl
+ping
+ping 160.98.62.12
+ping 160.98.62.19
+ifconfig
+ipconfig
+history
+cd Scrivania
+history > storia.txt
+ls -l
+gedit storia.txt
+ifconfig
+gedit storia.txt
+ifconfig
+sudo ifconfig
+ifconfig --help
+ifconfi
+curl --help
+curl -h
+man curl
+curl ifconfig.me
+ifconfig.me
+ifconfig
+ip a
+sudo apt-get udgrade
+sudo apt-get upgrade
+sudo apt-get update
+ifconfig
+ip
+ip addr
+hostname -I
+hostname
+hostname -h
+hostname -i
+hostname -I
+wc -h
+wc --help
+ls -l
+wc 'password artem'
+lsusb
+cat /proc/meminfo
+ls -l
+stat 'password artem'
+stat Scrivania
+cd Scrivania | ls -l
+cd Scrivania && ls -l
+| -h
+whireshark
+wireshark
+nslookup
+nslookup --help
+nslookup -h
+man nslookup
+open www.libero.it 80
+set localecho
+set crlf
+open www.libero.it 80
+ifconfig
+ifconfig
+sudo -s
+netkit
+man netkit
+ifconfig
+sh jNetEdit.sh
+export NETKIT_HOME=~/Programmi/netkit
+export PATH=$PATH:$NETKIT_HOME/bin
+export MANOATH=:$NETKIT_HOME/man
+cd
+cd $NETKIT_HOME
+./check_configuration.sh
+export NETKIT_HOME=~/Programmi/netkit/netkit-2.8/netkit
+cd $NETKIT_HOME
+export PATH=$PATH:$NETKIT_HOME/bin
+export MANOATH=:$NETKIT_HOME/man
+./check_configuration.sh
+ls -l
+./check_configuration.sh
+./check_configuration.sh
+cd $NETKIT_HOME
+export NETKIT_HOME=~/Programmi/netkit/netkit-2.8/netkit
+cd $NETKIT_HOME
+./check_configuration.sh
+export PATH=$PATH:$NETKIT_HOME/bin
+export MANPATH=:$NETKIT_HOME/man
+./check_configuration.sh
+cd $NETKIT_HOME
+export NETKIT_HOME=~/Programmi/netkit/netkit-2.8/netkit
+cd $NETKIT_HOME
+ls -l
+cd netkit
+export NETKIT_HOME=~/Programmi/netkit/netkit-2.8/netkit
+cd netkit
+cd $NETKIT_HOME
+ls -l
+tar -xjSf netkiy-2.8.tar.bz2
+tar -xjSf netkit-2.8.tar.bz2
+tar -xjSf netkit-filesystem-i386-F5.1.patch3.tar.bz2
+ls -l
+tar -xjSf netkit-filesystem-i386-F5.1.patch3.tar.bz2
+tar -xjSf netkit-kernel-i386-K2.8.tar.bz2
+ls -l
+export NETKIT_HOME=~/Programmi/netkit/netkit
+cd
+cd $NETKIT_HOME
+export MANPATH=:$NETKIT_HOME/man
+export PATH=$NETKIT_HOME/bin:$PATH
+cd netkit
+cd ..
+cd
+cd netkit
+./check_configuration.sh
+export NETKIT_HOME=/home/rhode/Programmi/netkit/netkit
+cd netkit
+./check_configuration.sh
+cd
+cd netkit
+export NETKIT_HOME=/home/rhode/Programmi/netkit/netkit
+cd netkit
+export NETKIT_HOME=~/Programmi/netkit/netkit
+cd netkit
+cd Programmi/netkit/netkit
+ls -l
+./check_configuration.sh
+export MANPATH=:/home/rhode/Programmi/netkit/netkit/man
+./check_configuration.sh
+export PATH=/home/rhode/Programmi/netkit/netkit/bin:$PATH
+./check_configuration.sh
+sudo apt-get install ia32-libs
+cd
+cd netkit
+cd Programmi/netkit/netkit
+vstart pc1
+./check_configuration.sh
+sudo apt-get install xterm
+./check_configuration.sh
+sudo apt-get install konsole
+./check_configuration.sh
+sudo ./check_configuration.sh
+./check_configuration.sh
+sudo apt-get install ia32-libs
+sudo apt-get install libc6-i368
+sudo apt-get install ia32-libs:i386
+sudosudosudo dpkg --add-architecture i386
+./check_configuration.sh
+vstart pc1
+vlist
+cd netkit
+cd NETKIT_HOME
+cd $NETKIT_HOME
+cd $NETKIT_HOMEVAR
+var
+cd Programmi
+cd netkit
+ls -l
+cd netkit
+ls -l
+./check_configuration.sh
+export NETKIT_HOME=/home/rhode/Programmi/netkit/netkit
+./check_configuration.sh
+export PATH=/home/rhode/Programmi/netkit/netkit/bin:$PATH
+./check_configuration.sh
+export MANPATH=:/home/rhode/Programmi/netkit/netkit/man
+./check_configuration.sh
+./jNetEdit.sh
+sudo add-apt-repository ppa:gns3/ppa
+sudo apt-get update
+sudo apt-get install gns3-gui
+gns3
+./jNetEdit.sh
+gns3
+./jNetEdit.sh
+whireshark
+whireshark-common
+gns3
+wireshark
+sudo apt-get install libcap2-bin wireshark
+sudo chgrp admin /usr/bin/dumpcap
+sudo chgrp rhode /usr/bin/dumpcap
+sudo chmod 750 /usr/bin/dumpcap
+sudo setcap capnet_raw,cap_net_rhode+eip/urs/bin/dumpcap
+sudo setcap cap_net_raw,cap_net_rhode+eip /urs/bin/dumpcap
+sudo setcap cap_net_raw,cap_net_admin+eip /usr/bin/dumpcap
+sudo setcap cap_net_raw,cap_net_rhode+eip /usr/bin/dumpcap
+sudo chgrp admin /usr/bin/dumpcap
+sudo chgrp rhode /usr/bin/dumpcap
+sudo -s
+groupadd -g wireshark
+wireshark
+sudo dpkg-reconfigure wireshark-common
+sudo usermod -a -G wireshark rhode
+ifconfig
+hostname -i
+hostname -I
+wireshark
+gns3
+hostname -I
+telnet 192.168.1.103
+nslookup 192.168.1.103
+wireshark
+echo
+env
+netstat
+netstat -n
+netstat
+netstat -a
+netstat -an
+sudo apt-get install net-tools
+netstat
+netstat -n
+ipconfig
+ifconfig
+telnet
+set localecho
+set ctrf
+open www.libero.it 80
+telnet
+man telnet
+wireshark
+netstat
+wireshark
+ip
+tc
+man tc
+./jNetEdit.sh
+wireshark
+ifconfig
+sudo iptables
+sudo iptables -h
+sudo iptables --version
+sudo apt-cache search kernel-source
+cd/ect
+cd /ect
+cd /etc
+cd network
+ls -l
+gedit interfaces
+gns3
+cd $NETKIT_HOME
+gns3
+ping libero.it
+ifconfig
+gns3
+gns3 --version
+gns3
+ifconfig
+gns3
+vboxmanage list extpacks
+ls -l
+sudo vboxmanage extpack install ./virtualbox-6.0_6.0.10-132072~Ubuntu~bionic_adm64.deb
+gns3
+ls- l
+ls -l
+sudo vboxmanage extpack install ./Oracle_VM_VirtualBox_Extension_Pack-6.0.10.vbox-extpack
+vboxmanage list extpacks
+gns3
+ls -l
+./VMware-VIX-1.15.0-2985596.x86_64.bundle
+sudo ./VMware-VIX-1.15.0-2985596.x86_64.bundle
+./VMware-VIX-1.15.0-2985596.x86_64.bundle
+gns3
+ls -l
+sudo chmod +x ./VMware-VIX-1.15.0-2985596.x86_64.bundle
+ls -l
+./VMware-VIX-1.15.0-2985596.x86_64.bundle
+sudo -s
+vboxmanage list extpacks
+gns3
+vboxmanage list extpacks
+gksudo virtualbox
+virtualbox
+gns3
+vbox
+virtualbox
+sudo apt-get install virtualbox-dkms
+virtualbox --version
+virtualbox
+wireshark
+iperf -c localhost
+tcpdump
+sudo tcpdump
+tcpdump -i eth0
+sudo tcpdump -i eth0
+netstat
+tcpdump -v
+sudo -s
+tcpdump -v
+nslookup mat.unical.it
+nslookup www.mat.unical.it
+nslookup www.facebook.it
+dig mat.unical.it
+nslookup mat.unical.it
+dig www.mat.unical.it
+traceroute www.mat.unical.it
+apt-get install traceroute
+traceroute www.mat.unical.it
+ifconfig
+iperf -s
+apt-get iperf
+apt-get install iperf
+iperf -s
+route
+iftop
+apt-get install iftop
+iftop
+iftop -p
+iftop -nN
+poweroff
+netstat
+iptables -L
+sudo iptables -L
+pico /etc/network/interfaces
+ifconfig
+route
+route -n
+route
+route -n
+poweroff
+sudo apdate
+sudo apt-get update
+sudo apt-get install gedit
+g++ was.cpp
+g++ wts.cpp
+g++ wtp.cpp
+./ jNetEdit.sh
+./jNetEdit.sh
+g++ -fopenmp wts.cpp
+./a.out
+iptables -T
+iptables -L
+pico /etc/hosts
+pico /et/protocols
+pico /etc/protocols
+mpic++ -o wtp.cpp
+mpi
+sudp apt-get mpi
+sudo apt-get install mpi
+mpic++ -o wtp.cpp
+ls -l
+perl sql.pl database.db
+lshv
+lshw
+ls -l
+perl lshw.pl
+clear
+perl lshw.pl
+clear
+perl lshw.pl
+clear
+perl lshw.pl
+clear
+perl lshw.pl
+lshw > file
+ls -l
+gedit file
+perl lshw.pl
+clear
+ls -l
+pico lshw.pl
+perl lshw.pl
+clear
+perl lshw.pl
+stat
+ls -l
+stat ese_bus
+ls -l
+perl stat.pl
+clear
+perl stat.pl lkl
+perl stat.pl lklperl stat.pl
+ls -l
+stat esercizi_durante_corso
+stat ese_bus
+stat lezioni
+stat stat.pl
+ls -l -a
+cd ..
+ls -l
+stat perl
+ls -l perl
+le -l perl/ese_bus
+ls -l perl/ese_bus
+ls perl
+clear
+cd perl
+ls -l
+stat stat.pl
+cd ese_bus
+ls -l
+clear
+ls -l
+stat bus.pl
+stat bus.txt
+stat 'Esame di Sistemi Operativi del 30 Luglio 2010-pratica.pdf'
+clear
+cd ..
+ls -l
+perl stat.pl ese_bus
+ls ese_bus
+perl stat.pl ese_bus
+clear
+perl stat.pl ese_bus
+ls ese_bus
+perl stat.pl ese_bus
+stat hdjska
+stat /ese_bus/fjdksl
+stat ese_bus/fjdksl
+perl stat.pl ese_bus
+cd Scrivania
+ls
+cd 'the last one'
+cd sistemi
+cd perl
+ls -l
+perl psaux.pl
+clear
+ps aux
+perl psaux.pl
+perl psaux.pl --kill=true --name=ALL
+perl psaux.pl --kill=true --name=ciao
+perl psaux.pl --kill=false --name=ciao
+perl psaux.pl --kill=false --name=ALL
+ps aux
+perl psaux.pl --kill=false --name=postgres
+perl psaux.pl --kill=true --name=postgres
+ps aux
+perl psaux.pl --kill=true --name=postgres
+sudo -s
+perl psaux.pl --kill=true --name=postgres
+perl psaux.pl --kill=false --name=ALL
+perl psaux.pl --kill=false --name=worker
+perl psaux.pl --kill=false 
+perl psaux.pl --kill
+perl psaux.pl --kill=false --name=usr
+clear
+perl psaux.pl --kill=false --name=usr
+clear
+perl psaux.pl --kill=false --name=usr
+perl psaux.pl --kill=false --name=bin
+perl psaux.pl --kill=false --name=tomcat
+perl psaux.pl --kill=false --name=gedit
+perl psaux.pl --kill=false --name=ALL
+perl psaux.pl --kill=true --name=gedit
+python TimedBlockingQueue.py
+poweroff
+pyton3 cittadino.py
+python3 cittadino.py
+python cittadino.py
+python3 cittadino.py
+autopep8 -i cittadino.py
+python3 cittadino.py
+perl rub.pl
+clear
+perl rub.pl
+clear
+perl rub.pl
+clear
+perl rub.pl
+ls -l
+perl rub.pl
+ls
+cd ..
+ls
+perl stampa.pl
+ls
+perl stampa.pl
+ls
+cd TracciaGENNAIO2019
+perl rub.pl
+ls
+nano contatti.vfc
+perl rubrica.pl
+python3 vettore.py
+lsof
+pwd
+ls
+cd Documenti
+lsof > lsof.txt
+gedit lsof.txt
+rm lsof.txt
+ls -l
+cd /Scrivania/'the last one'/sistemi/perl
+cd /Scrivania/the last one/sistemi/perl
+cd Scrivania
+ls
+cd 'the lasta one'
+cd 'the last one'
+/sistemi
+ls
+cd sistemi
+cd perl
+ls -l
+clear
+cd ese_lsof
+perl lsof.pl -r -1
+ls -l
+perl lsof.pl -r chrome
+ls -l
+perl lsof.pl -r init
+ls -l
+gedit lsof.out
+perl lsof.pl -r init
+ls -l
+perl lsof.pl -r chrome
+ls -l
+lsof
+perl lsof.pl -r worker
+ls -l
+gedit lsof.out
+clear
+ls
+perl prova.pl
+clear
+perl lsof.pl -b -1 lsof.out
+ls -l
+gedit lsof.out
+perl lsof.pl -b -1 lsof.out
+perl lsof.pl -r -1
+perl lsof.pl -b -1
+ls -l
+perl lsof.pl -b -1 lsof.out
+perl lsof.pl -b -threaded lsof.out
+perl lsof.pl -b threaded lsof.out
+clear
+perl lsof.pl -r -1
+ls -l
+rm prova.pl
+clear
+perl lsof.pl -b -1
+perl lsof.pl -b -1 lsof.out
+perl lsof.pl -b Chrome lsof.out
+perl lsof.pl HTML lsof.out
+perl lsof.pl -b HTML lsof.out
+perl lsof.pl -b Chrome lsof.out
+perl database.pl
+perl database.pl database.db
+clear
+perl database.pl database.db
+route
+ifconfig
+gedit /etc/network/interfaces
+pico /etc/network/interfaces
+sudo -s
+uname
+uname -s
+sudo -s
+rm PrimoRepository
+ls -l
+history
+iptables -L
+man history
+history -help
+history -h
+history --help
+ncrack
+ssh
+shh -h
+shh --help
+ssh
+tcdump
+tcpdump
+ping 192.168.1.11
+ping 192.168.1.111
+ping 192.168.1.103
+tcpdump
+pico utmp
+user
+users
+ma nusers
+man users
+users --help
+sudo -s
+users
+ls -l
+cd /etc
+cat passwd
+cat passwd | grep 500*
+who
+whoamo
+whoami
+poweroff
+pico /etc/network/interfaces
+python3 dischi.py
+ls -aR
+ls
+perl search.pl
+ls -aR
+ls -aR /home/Scrivania
+ls -aR /home/rhode/Scrivania
+clear
+ls -aR /home/rhode/Scrivania
+clear
+ls
+ls -aR ./
+clear
+ls -aR ./
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+gedit database.db
+perl search.pl --sync ./
+perl search.pl girone
+perl search.pl .pl
+perl sort.pl
+history
+python3 matrice.py
+clear
+history
+perl history.pl
+history
+perl history.pl
+nano h.pl
+perl h.pl
+history > history.log

@@ -1,0 +1,50 @@
+Liste : metodi
+
+lista.append(oggetto)  inserire in coda un elemento nella lista
+lista.insert(index,oggetto)   inserire nella posizione index
+lista.index(oggetto)    ritorna la posizione dell oggetto nella lista
+
+del lista[0]   rimuove l'elemento 0 dalla lista
+lista.remove(e)  cerca e rimuove l'elemento e
+lista.pop()  rimuove l'ultimo elemento nella lista
+lista.pop(0)  rimuove il "primo" elemento della lista ( non sicuro preso da prof )
+
+range(from,to)   crea un range da from a to-1 (numeri)
+
+lista = [blabla]
+for oggetto in lista:
+	print(oggetto)
+
+for i in range(0,5):
+	print(i)
+
+parola = input("dammi un parola")
+
+str(numero)  converte in stringa
+
+len(lista)   sapere la grandezza della lista
+
+filosofi = [Filosofo(tavolo,i) for i in range(5)]
+    for f in filosofi:
+        f.start()
+
+self.bacchetta = [Bacchetta() for _ in range(5)]
+
+randint(0,7)
+
+p = [Pizzaiolo] * 3
+pizzeria = Pizzeria()
+for i in range(0, 3):
+    p[i] = Pizzaiolo("Totonno_" + str(i), pizzeria)
+    p[i].start()
+
+MATRICI
+n = 4
+matrice = [0] * n
+for i in range(n):
+	matrice[i] = [0] * n
+
+print(matrice)
+
+
+

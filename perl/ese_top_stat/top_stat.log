@@ -1,0 +1,34 @@
+USER --> %cpu
+avahi --> 0
+libvirt+ --> 0
+root --> 0
+message+ --> 0
+syslog --> 0
+uml-net --> 0
+postgres --> 0
+mysql --> 0
+colord --> 0
+rtkit --> 0
+rhode --> 27
+kernoops --> 0
+systemd+ --> 0
+whoopsie --> 0
+tomcat --> 0
+##########
+USER --> %mem
+postgres --> 0
+whoopsie --> 0
+uml-net --> 0
+avahi --> 0
+root --> 0
+systemd+ --> 0
+mysql --> 2
+message+ --> 0
+kernoops --> 0
+rtkit --> 0
+rhode --> 12
+syslog --> 0
+tomcat --> 2
+colord --> 0
+libvirt+ --> 0
+##########
